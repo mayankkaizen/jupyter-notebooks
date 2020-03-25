@@ -1,0 +1,22 @@
+.ipynb_checkpoints/
+/.ipynb_checkpoints/
+__pycache__
+Data
+Misc Toy Projects
+GradientDescent
+-multiinst
+
+abcd.py
+File.txt
+file1.txt
+foo.py
+backdrop.py
+decorator33.py
+example.csv
+nn.py
+network.py
+.DS_Store
+
+!*.ipynb
+!Notes
+!/images
