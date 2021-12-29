@@ -1,8 +1,8 @@
-a = 47
-def callfunc(func):
-    return func
-    
-def test():
-    print('Hi')
-    
 
+
+print("Hi")
+
+if __name__ == '__main__':
+    print("running as script")
+else:
+    print(__name__)
